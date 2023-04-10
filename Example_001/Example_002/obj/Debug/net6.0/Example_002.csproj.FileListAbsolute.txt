@@ -1,0 +1,15 @@
+/home/vera/projects/Example/Example_001/Example_002/bin/Debug/net6.0/Example_002
+/home/vera/projects/Example/Example_001/Example_002/bin/Debug/net6.0/Example_002.deps.json
+/home/vera/projects/Example/Example_001/Example_002/bin/Debug/net6.0/Example_002.runtimeconfig.json
+/home/vera/projects/Example/Example_001/Example_002/bin/Debug/net6.0/Example_002.dll
+/home/vera/projects/Example/Example_001/Example_002/bin/Debug/net6.0/Example_002.pdb
+/home/vera/projects/Example/Example_001/Example_002/obj/Debug/net6.0/Example_002.csproj.AssemblyReference.cache
+/home/vera/projects/Example/Example_001/Example_002/obj/Debug/net6.0/Example_002.GeneratedMSBuildEditorConfig.editorconfig
+/home/vera/projects/Example/Example_001/Example_002/obj/Debug/net6.0/Example_002.AssemblyInfoInputs.cache
+/home/vera/projects/Example/Example_001/Example_002/obj/Debug/net6.0/Example_002.AssemblyInfo.cs
+/home/vera/projects/Example/Example_001/Example_002/obj/Debug/net6.0/Example_002.csproj.CoreCompileInputs.cache
+/home/vera/projects/Example/Example_001/Example_002/obj/Debug/net6.0/Example_002.dll
+/home/vera/projects/Example/Example_001/Example_002/obj/Debug/net6.0/refint/Example_002.dll
+/home/vera/projects/Example/Example_001/Example_002/obj/Debug/net6.0/Example_002.pdb
+/home/vera/projects/Example/Example_001/Example_002/obj/Debug/net6.0/Example_002.genruntimeconfig.cache
+/home/vera/projects/Example/Example_001/Example_002/obj/Debug/net6.0/ref/Example_002.dll
